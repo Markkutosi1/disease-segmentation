@@ -1,1 +1,1 @@
-# disease-segmentation
+# plant disease-segmentation and classification
